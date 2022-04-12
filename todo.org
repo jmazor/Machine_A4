@@ -1,17 +1,30 @@
 * TODO 
 ** 2. I.
-  Verify Ensure dropped properly
+   Verify Ensure dropped properly
 ** 2. II.
    Fix samples
+** 3. I.
+   Remove elbow graph??
+   We do it in another section?
+** 3. 2.
+   Verify we use inverse data
 ** 3. VI
 Do I need to change column or add
 Ensure int32 == int64
 ** 3. XIV
+   3. XIII
+   4. III
+   4. IV
    What??
+** 4. II
+   Verify dendogram?
+   do I use linkage='ward'
+** 
 * TODO Discussion
   3 XIV
   3 XIII
   3 XI
   3 IX
   3 II
-  
+  4 III
+  4 IV
