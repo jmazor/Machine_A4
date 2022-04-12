@@ -1,2 +1,17 @@
-* TODO 2. II. 
-** Fix samples
+* TODO 
+** 2. I.
+  Verify Ensure dropped properly
+** 2. II.
+   Fix samples
+** 3. VI
+Do I need to change column or add
+Ensure int32 == int64
+** 3. XIV
+   What??
+* TODO Discussion
+  3 XIV
+  3 XIII
+  3 XI
+  3 IX
+  3 II
+  
